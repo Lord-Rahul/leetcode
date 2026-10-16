@@ -13,8 +13,9 @@ var totalFruit = function(nums) {
         hashmap.set(nums[high],(hashmap.get(nums[high]) || 0)+1);
 
         while(hashmap.size>2){
-            hashmap.set(nums[low],hashmap.get(nums[low])-1)
-            if(hashmap.get(nums[low])===0) hashmap.delete(nums[low])
+            let fruit=hashmap.get(nums[low])
+            hashmap.set(nums[low],fruit-1)
+            if(fruit-1===0) hashmap.delete(nums[low])
             low++
         }
         result=Math.max(result,high-low+1)
