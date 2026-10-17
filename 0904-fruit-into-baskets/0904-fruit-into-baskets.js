@@ -3,19 +3,19 @@
  * @return {number}
  */
 var totalFruit = function(nums) {
-    let low = 0 ;
-    let high =0 ;
-    let n= nums.length
-    let hashmap = new Map
-    let result=0;
+    let low = 0;
+    let high = 0;
+    let map = new Map();
+    let result = 0 
 
-    for (high; high<n;high++){
-        hashmap.set(nums[high],(hashmap.get(nums[high]) || 0)+1);
+    for(high; high<nums.length;high++){
+        fruit=nums[high]
+        map.set(fruit,(map.get(fruit)||0)+1)
 
-        while(hashmap.size>2){
-            let fruit=hashmap.get(nums[low])
-            hashmap.set(nums[low],fruit-1)
-            if(fruit-1===0) hashmap.delete(nums[low])
+        while(map.size>2){
+            let element = nums[low]
+            map.set(element,map.get(element)-1)
+            if(map.get(element)===0) map.delete(element);
             low++
         }
         result=Math.max(result,high-low+1)
