@@ -4,33 +4,22 @@
  * @return {boolean}
  */
 var checkSubarraySum = function(nums, k) {
-    // Map stores: remainder -> earliest index where this remainder appeared
-    const remainderMap = new Map();
-    
-    // Initialize for subarrays starting from index 0
-    remainderMap.set(0, -1);
-    
-    let runningSum = 0;
-    
+    let prefix = new Map(); // %: i
+    let sum = 0;
+
+    prefix.set(0, -1);
+
     for (let i = 0; i < nums.length; i++) {
-        runningSum += nums[i];
-        let remainder = runningSum % k;
-        
-        // Handle negative remainders in JavaScript
-        if (remainder < 0) {
-            remainder += k;
-        }
-        
-        if (remainderMap.has(remainder)) {
-            // Check if the subarray length is at least 2
-            if (i - remainderMap.get(remainder) >= 2) {
+        sum += nums[i];
+        const l = sum % k;
+
+        if (prefix.has(l)) {
+            if (i - prefix.get(l) >= 2) {
                 return true;
             }
         } else {
-            // Only store the first occurrence to maximize the subarray length
-            remainderMap.set(remainder, i);
+            prefix.set(l, i);
         }
     }
-    
     return false;
 };
