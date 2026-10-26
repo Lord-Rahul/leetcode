@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Lord-Rahul/leetcode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Lord-Rahul/leetcode/tree/master/0075-sort-colors) |
 | [0567-permutation-in-string](https://github.com/Lord-Rahul/leetcode/tree/master/0567-permutation-in-string) |
+| [0876-middle-of-the-linked-list](https://github.com/Lord-Rahul/leetcode/tree/master/0876-middle-of-the-linked-list) |
 ## Sorting
 |  |
 | ------- |
@@ -160,4 +161,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Lord-Rahul/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/Lord-Rahul/leetcode/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
