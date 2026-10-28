@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Lord-Rahul/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Lord-Rahul/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/Lord-Rahul/leetcode/tree/master/0239-sliding-window-maximum) |
+| [0287-find-the-duplicate-number](https://github.com/Lord-Rahul/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/Lord-Rahul/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0523-continuous-subarray-sum](https://github.com/Lord-Rahul/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Lord-Rahul/leetcode/tree/master/0525-contiguous-array) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/Lord-Rahul/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/Lord-Rahul/leetcode/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/Lord-Rahul/leetcode/tree/master/0234-palindrome-linked-list) |
+| [0287-find-the-duplicate-number](https://github.com/Lord-Rahul/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0567-permutation-in-string](https://github.com/Lord-Rahul/leetcode/tree/master/0567-permutation-in-string) |
 | [0876-middle-of-the-linked-list](https://github.com/Lord-Rahul/leetcode/tree/master/0876-middle-of-the-linked-list) |
 ## Sorting
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Lord-Rahul/leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0287-find-the-duplicate-number](https://github.com/Lord-Rahul/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0713-subarray-product-less-than-k](https://github.com/Lord-Rahul/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Lord-Rahul/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 ## Prefix Sum
@@ -161,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Pigeonhole Principle
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/Lord-Rahul/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0523-continuous-subarray-sum](https://github.com/Lord-Rahul/leetcode/tree/master/0523-continuous-subarray-sum) |
 ## Divide and Conquer
 |  |
@@ -185,8 +189,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Lord-Rahul/leetcode/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/Lord-Rahul/leetcode/tree/master/0202-happy-number) |
+| [0287-find-the-duplicate-number](https://github.com/Lord-Rahul/leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Recursion
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/Lord-Rahul/leetcode/tree/master/0234-palindrome-linked-list) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Lord-Rahul/leetcode/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
