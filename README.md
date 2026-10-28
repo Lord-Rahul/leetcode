@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Lord-Rahul/leetcode/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/Lord-Rahul/leetcode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Lord-Rahul/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0202-happy-number](https://github.com/Lord-Rahul/leetcode/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/Lord-Rahul/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0567-permutation-in-string](https://github.com/Lord-Rahul/leetcode/tree/master/0567-permutation-in-string) |
 | [0876-middle-of-the-linked-list](https://github.com/Lord-Rahul/leetcode/tree/master/0876-middle-of-the-linked-list) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/Lord-Rahul/leetcode/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/Lord-Rahul/leetcode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Lord-Rahul/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0202-happy-number](https://github.com/Lord-Rahul/leetcode/tree/master/0202-happy-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/Lord-Rahul/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0523-continuous-subarray-sum](https://github.com/Lord-Rahul/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Lord-Rahul/leetcode/tree/master/0525-contiguous-array) |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/Lord-Rahul/leetcode/tree/master/0202-happy-number) |
 | [0523-continuous-subarray-sum](https://github.com/Lord-Rahul/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Lord-Rahul/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 ## Queue
@@ -181,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Lord-Rahul/leetcode/tree/master/0141-linked-list-cycle) |
+| [0202-happy-number](https://github.com/Lord-Rahul/leetcode/tree/master/0202-happy-number) |
 ## Recursion
 |  |
 | ------- |
