@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/Lord-Rahul/leetcode/tree/master/0904-fruit-into-baskets) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Lord-Rahul/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [1004-max-consecutive-ones-iii](https://github.com/Lord-Rahul/leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1094-car-pooling](https://github.com/Lord-Rahul/leetcode/tree/master/1094-car-pooling) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Lord-Rahul/leetcode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1191-k-concatenation-maximum-sum](https://github.com/Lord-Rahul/leetcode/tree/master/1191-k-concatenation-maximum-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Lord-Rahul/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Lord-Rahul/leetcode/tree/master/0075-sort-colors) |
 | [0435-non-overlapping-intervals](https://github.com/Lord-Rahul/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Lord-Rahul/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [1094-car-pooling](https://github.com/Lord-Rahul/leetcode/tree/master/1094-car-pooling) |
 ## Quicksort
 |  |
 | ------- |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/Lord-Rahul/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/Lord-Rahul/leetcode/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/Lord-Rahul/leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1094-car-pooling](https://github.com/Lord-Rahul/leetcode/tree/master/1094-car-pooling) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Lord-Rahul/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 ## Math
 |  |
@@ -164,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Lord-Rahul/leetcode/tree/master/0239-sliding-window-maximum) |
+| [1094-car-pooling](https://github.com/Lord-Rahul/leetcode/tree/master/1094-car-pooling) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -233,4 +237,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/Lord-Rahul/leetcode/tree/master/0040-combination-sum-ii) |
+## Simulation
+|  |
+| ------- |
+| [1094-car-pooling](https://github.com/Lord-Rahul/leetcode/tree/master/1094-car-pooling) |
 <!---LeetCode Topics End-->
