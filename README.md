@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Lord-Rahul/leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Lord-Rahul/leetcode/tree/master/0053-maximum-subarray) |
+| [0091-decode-ways](https://github.com/Lord-Rahul/leetcode/tree/master/0091-decode-ways) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Lord-Rahul/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Lord-Rahul/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0131-palindrome-partitioning](https://github.com/Lord-Rahul/leetcode/tree/master/0131-palindrome-partitioning) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Lord-Rahul/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/Lord-Rahul/leetcode/tree/master/0020-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/Lord-Rahul/leetcode/tree/master/0076-minimum-window-substring) |
+| [0091-decode-ways](https://github.com/Lord-Rahul/leetcode/tree/master/0091-decode-ways) |
 | [0131-palindrome-partitioning](https://github.com/Lord-Rahul/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/Lord-Rahul/leetcode/tree/master/0139-word-break) |
 | [0424-longest-repeating-character-replacement](https://github.com/Lord-Rahul/leetcode/tree/master/0424-longest-repeating-character-replacement) |
