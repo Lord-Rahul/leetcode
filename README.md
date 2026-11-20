@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Lord-Rahul/leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Lord-Rahul/leetcode/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/Lord-Rahul/leetcode/tree/master/0062-unique-paths) |
 | [0091-decode-ways](https://github.com/Lord-Rahul/leetcode/tree/master/0091-decode-ways) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Lord-Rahul/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Lord-Rahul/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Lord-Rahul/leetcode/tree/master/0002-add-two-numbers) |
+| [0062-unique-paths](https://github.com/Lord-Rahul/leetcode/tree/master/0062-unique-paths) |
 | [0202-happy-number](https://github.com/Lord-Rahul/leetcode/tree/master/0202-happy-number) |
 | [0523-continuous-subarray-sum](https://github.com/Lord-Rahul/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Lord-Rahul/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
@@ -281,4 +283,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/Lord-Rahul/leetcode/tree/master/0139-word-break) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Lord-Rahul/leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
